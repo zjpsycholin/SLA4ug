@@ -37,39 +37,50 @@ By the end of Chapter 2 you should be able to:
 
 ---
 
-## 🧩 Core Content (aligned to Chapter 2)
+## 🧩 Core Content
 
-### 1) The Prevalence and Nature of Multilingualism
-- **Multilingualism is normal** worldwide; learners use languages for different **purposes** (education, work, migration).  
-- **Multi-competence:** bilingual knowledge is an **integrated** system, not two separate monolinguals.  
-- Why counting speakers is hard (census categories, identity, “language” vs “dialect”).
+### 1) Multilingualism & "Multi-competence"
 
-### 2) The Nature of Language Learning (First Language Acquisition)
-- **Innate capacity** & the **logical problem** (limited negative evidence, yet rich competence).  
-- **Systematic development** with varying **rates**; role of **input** and **social interaction**; **sensitive/critical period** highlights.
+- **Multilingualism is normal**: At least half the world uses two or more languages; it isn't exceptional
+- **Multi-competence (Cook)**: A mind with two+ grammars forms a unique, integrated system, not two monolingual systems living side-by-side; L2 users often show different knowledge, metalinguistic awareness, and processing from monolinguals
+- **Why people add languages** (illustrative list): Education, migration, economic contact, religion, social/occupational advancement, cultural/technological interest
+- **Counting speakers is tricky**: Census gaps, self-report bias (fear/pride/resources), and definitional problems (what counts as "native"? what counts as "knowing"?)—plus political boundaries of "language" vs "dialect"
 
-### 3) First vs Second Language Learning: A Three-Phase Comparison
-- **Initial state:**  
-  - L1 → universal initial capacity;  
-  - L2 → prior **L1 knowledge**, world knowledge, interactional skills; (debate on UG access).  
-- **Intermediate states/processes:**  
-  - **Interlanguage** shows **systematicity** and **variability**;  
-  - **Transfer** (positive/negative) + influence of input/interaction;  
-  - **Facilitators:** feedback, aptitude, motivation, instruction matter more for L2.  
-- **Final state:**  
-  - L1 → near-universal native competence;  
-  - L2 → **variable outcomes**, possibility of **fossilization**, but near-native is possible.
+### 2) L1 Acquisition: What Makes It Possible?
 
-### 4) Theoretical Frameworks for Second Language Acquisition
-- **Linguistic perspective**  
-  - Internal: UG/principles & parameters, features/markedness, form–meaning mappings.  
-  - External/functional: discourse/pragmatics pressures, information structure.  
-- **Psychological perspective**  
-  - Brain & age; **information processing**, **processability**; **connectionism**; **dynamic systems**;  
-  - Individual differences: **aptitude**, **motivation**, **affect**, strategies.  
-- **Social perspective**  
-  - **Interactionist** micro-context (negotiation, feedback, uptake); **SCT** (mediation, ZPD);  
-  - Macro-context: **acculturation**, identity/status, communities of practice.
+- **Innate capacity is required** to explain uniform success, similar developmental sequences, creativity with novel sentences, and judgments about ungrammaticality
+- **Logical problem / poverty of the stimulus**: Input is noisy and mostly positive evidence; yet children achieve full competence and know what isn't possible
+- **UG hypothesis**: Input is organized by built-in principles/constraints shared across languages
+- **Systematic development**: Child grammar is rule-governed; order of acquisition tracks semantic/grammatical complexity (Brown 1973), though rates vary
+- **Sensitive period**: After a puberty-linked cutoff, complete L1 acquisition is unlikely
+- **Role of social experience**: Input + reciprocal interaction are necessary; who provides input varies cross-culturally; instruction/correction has little effect on rate/sequence of grammar/phonology, though it can shape vocabulary and some functions
+
+### 3) L1 ↔ L2: A Three-Phase Comparison
+
+#### Phase 1: Initial State
+- **L1**: Starts from UG-given capacity
+- **L2**: Starts from L1 knowledge (source of transfer), world knowledge (cognitive maturity), and interactional skills; UG availability to L2 is an open question (full/partial/none?)
+
+#### Phase 2: Intermediate States & Processes
+- **Systematicity**: Learners pass through predictable stages (L2 = interlanguage)
+- **Maturation difference**: L1 growth tracks cognitive development; L2 learners are already mature
+- **Transfer**:
+  - **Positive**—L1 structure fits L2 (e.g., cognates) → facilitation
+  - **Negative**—L1 mapping misapplied (e.g., *assist to your class*; *I have been always to class on time*) → errors/foreign accent
+- **Skills & knowledge can also transfer** (e.g., domain concepts), reducing load to "new labels"
+- **Necessary conditions**: L1 needs input + reciprocal interaction; L2 needs input (interaction helps but isn't strictly required—media/books can support some learning)
+- **Facilitating conditions matter more for L2**: Feedback, aptitude, motivation, instruction
+
+#### Phase 3: Final State
+- **L1**: Near-universal native competence (core phonology/grammar by ~5-6 years)
+- **L2**: Variable ultimate attainment; many fossilize with persistent L1 influence, though some reach near-native performance
+
+### 4) Big Lenses You'll Use in This Course
+
+- **Linguistic**: Internal knowledge (e.g., UG; principles/parameters; Minimalism) and external function (functionalism; information structure)
+- **Psychological**: Brain & age (neurolinguistics; critical period), learning mechanisms (information processing, processability, connectionism, complexity/dynamic systems), and learner differences (motivation, aptitude, anxiety, strategies)
+- **Social**: Micro-contexts (variation, accommodation, SCT, interaction, CMC) and macro-contexts (ethnography of communication, acculturation, identity/status/values)
+
 
 ---
 
@@ -79,14 +90,16 @@ By the end of Chapter 2 you should be able to:
 - Finish the reading; complete the **mini-task** prediction.  
 - List 3 terms to clarify in class (e.g., *interlanguage*, *fossilization*, *processability*).
 
+<!--
 ### During Class (activities)
 - **Activity 1 (Concept map):** Draw the **three phases** (initial/intermediate/final) and place examples under each.  
 - **Activity 2 (Transfer detective):** Label errors as **transfer-driven** vs **developmental** and justify.  
 - **Activity 3 (Frameworks → predictions):** In triads, assign one framework (linguistic/psychological/social) and produce **one falsifiable prediction** for Mandarin→English.
+-->
 
 ### After Class (review)
 - **Short reflection (150–200 words):** Which **conditions** (input/interaction/facilitators) most affect your learning? Plan one change to your study routine.  
-- **Self-check:** Revisit your mini-task **prediction** and outline a 5-minute classroom **check** for Week 3.
+
 
 ---
 
@@ -104,7 +117,7 @@ By the end of Chapter 2 you should be able to:
 9) State a **testable prediction** for Chinese↔English based on one framework.  
 10) Why do L2 outcomes vary more than L1 outcomes?
 
-#### (Answer key — hidden)
+#### (Answer key - available after we finish this chapter)
 <!--
 1) Multilingualism = using 2+ languages; multi-competence = integrated knowledge of more than one language in one mind.  
 2) Learners acquire rich grammar despite limited negative evidence; motivates innate constraints and careful evidence claims.  

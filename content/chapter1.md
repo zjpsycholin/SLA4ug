@@ -109,17 +109,30 @@ By the end of Chapter 1 you should be able to:
 
 ---
 
-## 📚 Glossary (quick reference)
-- **SLA:** Learning an additional language after the first.  
-- **L1 / L2:** First (native) language(s) / any later-learned language.  
-- **Formal / Informal learning:** Classroom-based vs naturalistic acquisition.  
-- **Linguistic competence / performance:** Underlying knowledge vs actual use.  
-- **Communicative competence:** Effective use across contexts (form, meaning, pragmatics).  
-- **Second / Foreign / Library / Auxiliary / LSP:** Types/purposes of an “L2” in context.  
-- **Multilingualism:** Adding languages; **simultaneous** vs **sequential** acquisition.  
-- **Input / Interaction:** Exposure to language / negotiated use with others.  
-- **Motivation / Aptitude / Identity:** Key individual-difference factors.
-
+## 📚 Glossary 
+### Basic Terminology
+- **Second Language Acquisition (SLA)**: The process by which individuals and groups learn an additional language subsequent to acquiring their first one.
+- **Second Language (L2)**: Any language learned after the first language (L1).
+- **Target Language**: The specific additional language that is being learned or acquired.
+### Learning Contexts
+- **Informal L2 learning**: The naturalistic acquisition of a second language, often without conscious effort or formal instruction, typically through exposure and daily interaction.
+- **Formal L2 learning**: The structured and often classroom-based learning of a second language, usually with explicit instruction and a specific curriculum or goal.
+### Language Knowledge and Use
+- **Linguistic competence**: A speaker's underlying, often unconscious, knowledge of the rules and structures of a language.
+- **Linguistic performance**: The actual production and comprehension of language in real-world situations, reflecting how a speaker uses their linguistic knowledge.
+### Language Acquisition Patterns
+- **First language/native language/mother tongue (L1)**: The language(s) an individual acquires first, typically from birth or early childhood.
+- **Simultaneous multilingualism**: The acquisition of two or more languages concurrently from a very young age, often from birth.
+- **Sequential multilingualism**: The acquisition of an additional language after the first language has already been established.
+### Language Purpose and Context
+- **Auxiliary language**: A language learned for specific practical purposes, such as international communication, trade, or political needs, without necessarily being used in the home or as a primary means of daily communication.
+- **Foreign language**: A language not widely used in the learner's immediate social context, often learned for travel, cross-cultural communication, or academic purposes.
+- **Library language**: A language primarily used for reading books or journals in a specific field, often without the need for spoken fluency.
+- **Special purpose language**: A language designated for specific professional or academic uses, such as "French for Hotel Management" or "English for Academic Purposes (EAP)."
+### Related Terms
+- **Primary language**: In some contexts, used interchangeably with "first language" or "native language."
+- **Mother tongue**: Another term for an individual's first language (L1).
+- **Native language**: Another term for an individual's first language (L1).
 
 
 
