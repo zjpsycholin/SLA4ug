@@ -145,7 +145,6 @@ By the end of Chapter 2 you should be able to:
 - **Sensitive/Critical period:** Age-related window with advantages for certain subsystems.  
 - **Frameworks:** Linguistic (representation/constraints); Psychological (processing/learning; individual differences); Social (interaction/identity/context).
 
----
 
 
 
